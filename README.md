@@ -2,8 +2,8 @@
 ## How to install and run locally?
 
 ```
-$ git clone https://github.com/Ravi-aahirwar/Streamvid.git
-$ cd Streamvid
+$ git clone https://github.com/Ravi-aahirwar/react_filters.git
+$ cd react-filters
 $ npm install
 $ npm run dev
 ```
